@@ -47,7 +47,7 @@ We use rustdoc to document both the public API of the components and the various
 cargo doc --no-deps --document-private-items --open
 ```
 
-You can view the deployed rustdocs reflecting the `main` branch in the [application services documentation website](https://mozilla.github.io/application-services/rust-docs/).
+You can view the deployed rustdocs reflecting the `main` branch in the [application services documentation website](https://mozilla.github.io/application-services/book/rust-docs/fxa_client/index.html).
 
 The [./docs/](docs) directory holds internal documentation about working with the
 code in this repository
