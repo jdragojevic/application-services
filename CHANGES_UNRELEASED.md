@@ -1,6 +1,10 @@
 **See [the release process docs](docs/howtos/cut-a-new-release.md) for the steps to take when cutting a new release.**
 
 # Unreleased Changes
+## Nimbus
+### What's Changed
+  - The nimbus component now specifies the version of the server's api - currently V1. That was done to avoid redirects. ([#4319](https://github.com/mozilla/application-services/pull/4319))
+
 
 [Full Changelog](https://github.com/mozilla/application-services/compare/v80.0.1...main)
 
